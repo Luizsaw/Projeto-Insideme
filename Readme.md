@@ -1,4 +1,17 @@
-O projeto “Inside me” é um jogo digital para PC que auxilia adolescentes com depressão que foi desenvolvido por mim entre o ano de 2014 e 2016. Este projeto participou de inúmeras feiras de tecnologia e foi muito prestigiado por vários profissionais da saúde.
-O game é do gênero de plataforma 2D e conta a história de Laura Hope, uma adolescente que sofria com o mal da depressão, para fugir da sua realidade Laura entrava em um mundo imaginário, no qual enfrentava grandes perigos que eram causados pela depressão, dentro do game havia várias informações importantes sobre a depressão, que ajudava a quebrar vários mitos sobre a doença.
-Inside me demorou cerca de 2 anos para ser desenvolvido, a maior parte do tempo foi documentação e aprovação dos profissionais da área da saúde, na época nao foi usado nenhuma engine de game, optei em criar minha própria engine usando a linguagem AS3, e o ambiente de desenvolvimento flash.
-Eu ainda sonho no futuro retornar ao projeto e desenvolver melhor a história, os gráficos e claro usar uma engine mais atualizada, para ter um suporte melhor para dispositivos mobile.
+# Inside Me
+
+O projeto **Inside Me** é um jogo digital para PC concebido para auxiliar adolescentes que enfrentam a depressão. Desenvolvido por mim entre 2014 e 2016, o jogo não apenas serviu como uma plataforma de entretenimento, mas também como uma ferramenta educacional. Participando de diversas feiras de tecnologia, o projeto recebeu reconhecimento significativo por parte de profissionais da saúde.
+
+## Sobre o Jogo
+
+**Gênero:** Plataforma 2D
+
+**História:** O enredo gira em torno de Laura Hope, uma adolescente lidando com a depressão. Para escapar da sua realidade, Laura mergulha em um mundo imaginário, enfrentando perigos simbolizados pela própria depressão. O jogo integra informações relevantes sobre a doença, desmistificando concepções equivocadas. 
+
+**Desenvolvimento:** O projeto Inside Me demandou aproximadamente dois anos para ser concluído. Grande parte desse período foi dedicada à documentação e à aprovação por profissionais da saúde. Vale ressaltar que, na época, optei por criar minha própria engine utilizando a linguagem AS3 e o ambiente de desenvolvimento Flash, em vez de recorrer a engines existentes. 
+
+## Futuro
+
+Embora tenha sido uma experiência enriquecedora, vislumbro retornar ao projeto no futuro. Pretendo aprimorar a narrativa, os gráficos e migrar para uma engine mais moderna, proporcionando um suporte mais robusto para dispositivos móveis. O objetivo é continuar contribuindo para a conscientização sobre a depressão, oferecendo uma experiência interativa e informativa.
+
+Seja bem-vindo ao Inside Me - onde a jornada pela compreensão da depressão se transforma em uma aventura significativa.
