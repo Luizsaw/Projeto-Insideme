@@ -1,6 +1,6 @@
 # Inside Me
 
-O projeto **Inside Me** é um jogo digital para PC concebido para auxiliar adolescentes que enfrentam a depressão. Desenvolvido por mim entre 2014 e 2016, o jogo não apenas serviu como uma plataforma de entretenimento, mas também como uma ferramenta educacional. Participando de diversas feiras de tecnologia, o projeto recebeu reconhecimento significativo por parte de profissionais da saúde.
+O projeto **Inside Me** é o primeiro projeto de game que desenvolvi para PC para auxiliar adolescentes que enfrentam a depressão. Desenvolvido por mim entre 2014 e 2016, o jogo não apenas serviu como uma plataforma de entretenimento, mas também como uma ferramenta educacional. Participando de diversas feiras de tecnologia, o projeto recebeu reconhecimento significativo por parte de profissionais da saúde.
 
 ## Sobre o Jogo
 
