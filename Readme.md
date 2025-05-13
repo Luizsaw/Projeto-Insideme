@@ -6,14 +6,26 @@ Criado entre 2014 e 2016, **Inside Me** foi mais do que uma experiência de apre
 
 ---
 
-## 🎮 Sobre o Jogo
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      
+<h2>🎮 Sobre o Jogo</h2>
 
-- **Gênero:** Plataforma 2D  
-- **Personagem principal:** *Laura Hope*
+<ul>
+  <li><strong>Gênero:</strong> Plataforma 2D</li>
+  <li><strong>Personagem principal:</strong> <em>Laura Hope</em></li>
+</ul>
 
-### 🧠 Enredo
-
-A história acompanha **Laura Hope**, uma adolescente lidando com a depressão. Para escapar da sua realidade, ela mergulha em um mundo imaginário onde enfrenta desafios e perigos que simbolizam sua luta interna. A proposta do jogo é desmistificar a doença, trazendo informações relevantes ao longo da jornada, promovendo a conscientização e empatia.
+<p>
+A história acompanha <strong>Laura Hope</strong>, uma adolescente lidando com a depressão. Para escapar da sua realidade, ela mergulha em um mundo imaginário onde enfrenta desafios e perigos que simbolizam sua luta interna. A proposta do jogo é desmistificar a doença, trazendo informações relevantes ao longo da jornada, promovendo a conscientização e empatia.
+</p>
+    </td>
+    <td>
+      <img src="CAPA_DVD.png" alt="Imagem de Demonstração" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Desenvolvimento
 
