@@ -34,7 +34,7 @@ A história acompanha <strong>Laura Hope</strong>, uma adolescente lidando com a
 - Ao invés de utilizar engines prontas, optei por criar **minha própria engine** utilizando **ActionScript 3 (AS3)** e o **Adobe Flash**.
 
 
-<p align="center"><img src="CAPA_DVD.png" alt="Imagem de Demonstração" width="600"/></p>
+<p align="center"><img src="Arte 5 tamanho normal.png" alt="Imagem de Demonstração" width="600"/></p>
 
 ---
 
@@ -55,3 +55,5 @@ Apesar das tecnologias utilizadas estarem ultrapassadas, desejo revisitar este p
 
 Obrigado por visitar este repositório!  
 Sinta-se à vontade para explorar, comentar ou contribuir com ideias para uma futura versão.
+
+<p align="center"><img src="CAPA_DVD.png" alt="Imagem de Demonstração" width="600"/></p>
