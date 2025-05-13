@@ -22,7 +22,7 @@ A história acompanha <strong>Laura Hope</strong>, uma adolescente lidando com a
 </p>
     </td>
     <td>
-      <img src="CAPA_DVD.png" alt="Imagem de Demonstração" width="300"/>
+      <img src="iconInsideme72x72.png" alt="Imagem de Demonstração" width="300"/>
     </td>
   </tr>
 </table>
