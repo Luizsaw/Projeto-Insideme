@@ -22,7 +22,7 @@ A história acompanha <strong>Laura Hope</strong>, uma adolescente lidando com a
 </p>
     </td>
     <td>
-      <img src="iconInsideme72x72.png" alt="Imagem de Demonstração" width="300"/>
+      <img src="iconInsideme72x72.png" alt="Imagem de Demonstração" width="200"/>
     </td>
   </tr>
 </table>
