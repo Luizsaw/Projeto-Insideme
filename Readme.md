@@ -1,17 +1,42 @@
 # Inside Me
 
-O projeto **Inside Me** é o primeiro projeto de game que desenvolvi para PC para auxiliar adolescentes que enfrentam a depressão. Desenvolvido por mim entre 2014 e 2016, o jogo não apenas serviu como uma plataforma de entretenimento, mas também como uma ferramenta educacional. Participando de diversas feiras de tecnologia, o projeto recebeu reconhecimento significativo por parte de profissionais da saúde.
+Este repositório registra o legado do projeto **Inside Me**, meu primeiro jogo desenvolvido com ActionScript 3 na plataforma Flash — tecnologias populares para desenvolvimento web e animações em meados de 2013, mas que hoje estão obsoletas.
 
-## Sobre o Jogo
+Criado entre 2014 e 2016, **Inside Me** foi mais do que uma experiência de aprendizado técnico: teve como propósito principal **auxiliar adolescentes que enfrentam a depressão**, por meio de uma abordagem lúdica e educativa. O jogo foi apresentado em diversas feiras de tecnologia e recebeu reconhecimento de profissionais da área da saúde por seu impacto social.
 
-**Gênero:** Plataforma 2D
+---
 
-**História:** O enredo gira em torno de Laura Hope, uma adolescente lidando com a depressão. Para escapar da sua realidade, Laura mergulha em um mundo imaginário, enfrentando perigos simbolizados pela própria depressão. O jogo integra informações relevantes sobre a doença, desmistificando concepções equivocadas. 
+## 🎮 Sobre o Jogo
 
-**Desenvolvimento:** O projeto Inside Me demandou aproximadamente dois anos para ser concluído. Grande parte desse período foi dedicada à documentação e à aprovação por profissionais da saúde. Vale ressaltar que, na época, optei por criar minha própria engine utilizando a linguagem AS3 e o ambiente de desenvolvimento Flash, em vez de recorrer a engines existentes. 
+- **Gênero:** Plataforma 2D  
+- **Personagem principal:** *Laura Hope*
 
-## Futuro
+### 🧠 Enredo
 
-Embora tenha sido uma experiência enriquecedora, vislumbro retornar ao projeto no futuro. Pretendo aprimorar a narrativa, os gráficos e migrar para uma engine mais moderna, proporcionando um suporte mais robusto para dispositivos móveis. O objetivo é continuar contribuindo para a conscientização sobre a depressão, oferecendo uma experiência interativa e informativa.
+A história acompanha **Laura Hope**, uma adolescente lidando com a depressão. Para escapar da sua realidade, ela mergulha em um mundo imaginário onde enfrenta desafios e perigos que simbolizam sua luta interna. A proposta do jogo é desmistificar a doença, trazendo informações relevantes ao longo da jornada, promovendo a conscientização e empatia.
 
-Seja bem-vindo ao Inside Me - onde a jornada pela compreensão da depressão se transforma em uma aventura significativa.
+### 🛠 Desenvolvimento
+
+- O projeto levou aproximadamente **dois anos** para ser concluído.  
+- O tempo foi dividido entre programação, desenvolvimento da narrativa, testes e validação com **profissionais da saúde**.  
+- Ao invés de utilizar engines prontas, optei por criar **minha própria engine** utilizando **ActionScript 3 (AS3)** e o **Adobe Flash**.
+
+---
+
+## 🔮 Futuro
+
+Apesar das tecnologias utilizadas estarem ultrapassadas, desejo revisitar este projeto no futuro com uma nova abordagem:
+
+- Migrar o jogo para tecnologias modernas, como **Unity** com **JavaScript** ou **C#**  
+- Atualizar os gráficos e aprimorar a narrativa  
+- Otimizar para **dispositivos móveis**  
+- Manter o compromisso com a **conscientização sobre a depressão**
+
+---
+
+## ✨ Considerações Finais
+
+**Inside Me** é uma aventura que transforma a compreensão sobre a depressão em uma experiência interativa e significativa.  
+
+Obrigado por visitar este repositório!  
+Sinta-se à vontade para explorar, comentar ou contribuir com ideias para uma futura versão.
