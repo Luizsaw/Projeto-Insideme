@@ -4,7 +4,7 @@ Este repositório registra o legado do projeto **Inside Me**, meu primeiro jogo 
 
 Criado entre 2014 e 2016, **Inside Me** foi mais do que uma experiência de aprendizado técnico: teve como propósito principal **auxiliar adolescentes que enfrentam a depressão**, por meio de uma abordagem lúdica e educativa. O jogo foi apresentado em diversas feiras de tecnologia e recebeu reconhecimento de profissionais da área da saúde por seu impacto social.
 
-<p align="center"><img src="\CAPA_DVD.psd" alt="Imagem de Demonstração" width="600"/></p>
+<p align="center"><img src="CAPA_DVD.psd" alt="Imagem de Demonstração" width="600"/></p>
 
 ---
 
